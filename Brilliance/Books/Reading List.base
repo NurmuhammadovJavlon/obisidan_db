@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder == "Brilliance/Books"
+    - file.folder == "myvault/Brilliance/Books"
     - '!file.fullname.contains("base")'
     - file.name != "Notes - Books in Mind"
 views:
@@ -21,5 +21,5 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "Brilliance/Books"
+        - file.folder == "myvault/Brilliance/Books"
         - '!file.fullname.contains(".base")'

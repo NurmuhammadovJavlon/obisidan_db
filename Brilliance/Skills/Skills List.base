@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder == "Brilliance/Skills"
+    - file.folder == "myvault/Brilliance/Skills/Customs clearance"
     - '!file.fullname.contains("base")'
 views:
   - type: cards

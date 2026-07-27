@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder == "Brilliance/Languages"
+    - file.folder == "myvault/Brilliance/Languages"
     - '!file.fullname.contains("base")'
 views:
   - type: cards
