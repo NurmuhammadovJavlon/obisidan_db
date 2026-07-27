@@ -1,0 +1,25 @@
+filters:
+  and:
+    - file.folder == "Brilliance/Books"
+    - '!file.fullname.contains("base")'
+    - file.name != "Notes - Books in Mind"
+views:
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - tags
+      - Status
+      - totalPage
+      - author
+      - categories
+    cardSize: 290
+    image: note.coverUrl
+    imageAspectRatio: 1
+    imageFit: contain
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Brilliance/Books"
+        - '!file.fullname.contains(".base")'

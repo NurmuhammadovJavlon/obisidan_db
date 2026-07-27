@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.folder == "Brilliance/Skills"
+    - '!file.fullname.contains("base")'
+views:
+  - type: cards
+    name: Table
+    order:
+      - file.name
+      - Icon
+      - Difficulty
+      - tags
+      - Completed
+      - Created
+    cardSize: 230
+    imageAspectRatio: 0.7

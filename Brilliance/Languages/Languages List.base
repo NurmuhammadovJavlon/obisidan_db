@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.folder == "Brilliance/Languages"
+    - '!file.fullname.contains("base")'
+views:
+  - type: cards
+    name: Table
+    order:
+      - file.name
+      - Icon
+      - Level
+      - Completed
+      - Created
+      - Goal
+      - Note
+    imageFit: contain
+    cardSize: 220
