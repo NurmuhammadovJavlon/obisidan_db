@@ -118,8 +118,8 @@ Are you waiting for success to arrive, or are you going out to find where it is 
 It is always better to imitate a successful man than to envy him.
 — NAPOLEON HILL
 
-<mark style="background: #FF5582A6;">Nature yields her most profound secrets to those who are determined to uncover them.
-—NAPOLEON HILL</mark>
+Nature yields her most profound secrets to those who are determined to uncover them.
+—NAPOLEON HILL
 
 Don’t waste your time worrying. Worry is not preparation. Analyze the
 situation and focus on solutions. There is always an answer. — Wally Amos
