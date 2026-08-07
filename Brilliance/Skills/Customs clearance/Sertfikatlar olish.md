@@ -22,6 +22,8 @@ Website: https://singlewindow.uz/
 ![[Pasted image 20260806112257.png]]
 
 --> 5. Kerakli ma'lumotlar to'ldiriladi va tizim taklif qilgan Litsenziyalangan sertifikatlash tashkilotlari orasidan ma'qul kelgani tanlanadi (Tash Sert - Univer experts system - odatda)
+ - Ma'lumot to'ldirishda mahsulotning faqat nomi va modeli eng muhim qismi hisoblanadi.
+ - Ishlab chiqaruvchi kompaniya ma'lumotlari kiritilishi lozim
 --> 6. Kerakli hujjatlar arizaga biriktirladi va xatolar tekshiriladi.
 --> 7. Sert. lash tashkiloti bilan aloqada bo'lgan holatda barcha kamchiliklar to'g'rilanishi mumkin. 
 --> 8. Vaziyatga qarab garanti xati taqdim etilgandan keyin Sert. lash tashkiloti Garantiniy pismo beradi va shu bo'yicha IM40 qilinadi lekin 6 oydan keyin qaytadan ariza berib Sertifikat olinadi.
