@@ -87,7 +87,7 @@ Limitless Strategic System - It takes Leaders. Leaders who are willing to ship a
 - Destroy all DISTRACTIONS
 - Control and command yourself!
 
-**Flow**
+**FLOW**
 
 - Be authotelic person
 - Constantly breathe and remember that your life is in the powerful flow
@@ -154,4 +154,4 @@ pull them up by their roots will you be rid of them forever.
 |  2. Becoming fluent in Chinese (B1)   |                               - I need to finish Spanish first<br>- It is difficult                                |
 |           3. Great physique           |                                - I don't have time<br>- Too many people at the gym                                 |
 |            4. $ 1 000 000             | - I don't have good business idea<br>- I need capital/leverage...<br>- It is not easy<br>- What if doesn't work... |
-|   5. MBA (HARVARD BUSINESS SCHOOL)    |                                                   - I am afraid
+|   5. MBA (HARVARD BUSINESS SCHOOL)    |                                                   - I am afraid                                                    |

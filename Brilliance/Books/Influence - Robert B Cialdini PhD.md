@@ -6,6 +6,7 @@ authors: Robert B. Cialdini, PhD
 category: Self-Help
 categories: Self-Help
 publisher: Harper Collins
+Status: true
 publishDate: 2009-06-02
 totalPage: 338
 coverUrl: http://books.google.com/books/content?id=5dfv0HJ1TEoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
