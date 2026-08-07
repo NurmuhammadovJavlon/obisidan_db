@@ -1,6 +1,7 @@
 
 Website: https://singlewindow.uz/
 
+> 60 kun ichida taqdim etilishi kerak bo'lgan hujjat yuborilmasa jarima qo'llaniladi (1 mln dan oshiq)
 ## Qaydlar
 - Yagona interaktiv davlat xizmatlari portali hisoblanadi
 - Ushbu xizmatdan foydalanish uchun elektron imzo kalitlari (ЭЦП ключ и парол) talab qilinadi.
