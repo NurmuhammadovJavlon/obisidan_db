@@ -171,8 +171,6 @@ $$ AOV = TR / NumberOfOrders $$
 
 # QUICK WIN #4: PERFORM COMPETITOR ANALYSIS
 
-
-
 |Criteria|Your Business|Competitor 1|Competitor 2|
 |---|--:|--:|--:|
 |Product/Service Quality|5|2|1|
@@ -194,3 +192,64 @@ Competitor analysis is an ongoing process that requires constant vigilance. Regu
 - Price adjustments
 - Marketing initiatives.
 
+
+# QUICK WIN #5: PRACTICE EFFECTIVE NEGOTIATION
+
+Effective negotiation requires **preparation**, **clear communication**, and **strategic thinking**
+
+- Perparation - Effective negotation starts before you enter the room with preparation by collecting necessary details, information and ideas. 
+- Clear communcation - Articulate your position logically and clearly with supporting data and facts.
+- Strategic thinking -  Prepare for multiple scenarios and outcomes. Write down several possible scenarios with their outcomes and construct a strategy on how to achieve the outcome you want.
+
+Negotiation techniques:
+- **BATNA** - Best Alternative to a Negotiated Agreement - Always know/prepare your alternatives
+- **ANCHORING** - First-Mover Advantage - The first number or position introduced shapes the psychological baseline for everything that follows
+
+
+# QUICK WIN #6: # QUICK WIN #5: PRACTICE EFFECTIVE NEGOTIATION
+
+Think in SWOT
+
+# QUICK WIN #7: DEFINE YOUR PRODUCT VALUE PROPOSITION
+
+- What is PRODUCT VALUE?
+It is essentially the benefits users gain from using a product, addressing their pain points effectively. What is the positive outcome they get.
+
+- How to increase PRODUCT VALUE?
+1. Understand your customer needs/pain points clearly. Conduct a market research and collect customer feedback.
+2. Enhance Competitive Positioning. Highlight why your product stands out
+3. Improve User Experience. Humans are comfort creatures, make the process convenient for your customers.
+4. Add Real Value.
+5. Collect and Act on Feedback
+6. Incremental Innovation
+
+# QUICK WIN #8: IMPLEMENT A LOYALTY PROGRAM
+
+A loyalty program is a strategic partnership between a business and its customers.
+
+
+# QUICK WIN #9: TRACK KEY METRICS (KPI'S)
+
+Key Performance Indicators (KPIs) provide invaluable insights into your business's health and progress.
+
+**SALES KPIs**
+
+1. Average Order Value (AOV) - average monetary value of each customer's purchase
+
+$$AOV = Total \space Revenue \space Number / \space of \space Orders$$
+
+2. Customer Lifetime Value (CLV) - total revenue a business can expect from a single customer over their entire relationship with the company.
+
+$$ CLV = Average \space Purchase \space Value \times Purchase \space Frequency \times Average \space Retention \space Time$$
+
+**MARKETING KPIS**
+
+1. Customer Acquisition Cost (CAC) - expense incurred to acquire a new customer.
+
+$$ CAC = Total \space Marketing \space and \space Sales \space Costs / Number \space of \space New \space Customers $$
+
+2. Landing Page Conversion Rates - measure the percentage of visitors to a specific landing page who take a desired action, such as filling out a form, signing up, or making a purchase.
+
+LPCR = Number of Conversions / Number of Visitors
+
+# QUICK WIN #10: HIGHLIGHT YOUR CUSTOMER FEEDBACK & LEVERAGE SOCIAL PROOF
