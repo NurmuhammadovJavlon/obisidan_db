@@ -47,6 +47,7 @@ For softer skills, I've never found anything that I would consider canonical but
 
 
 # 4. How to learn
+- _How to Read a Book_ by _Adler and Van Doren_
 
 # 5. Philosophy
 
