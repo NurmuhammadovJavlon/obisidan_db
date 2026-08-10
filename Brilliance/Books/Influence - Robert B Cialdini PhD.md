@@ -17,4 +17,6 @@ previewLink: http://books.google.co.uz/books?id=5dfv0HJ1TEoC&printsec=frontcover
 isbn13: 9780061899874
 isbn10: 61899879
 Base: "[[Reading List.base]]"
+tags:
+  - Psychology
 ---

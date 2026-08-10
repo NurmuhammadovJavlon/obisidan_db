@@ -1,5 +1,8 @@
 ---
 Base: "[[Reading List.base]]"
+Status: true
+tags:
+  - Business
 ---
 # QUICK WIN #1: BRAINSTORM YOUR CUSTOMERS’ PERSONAS
 

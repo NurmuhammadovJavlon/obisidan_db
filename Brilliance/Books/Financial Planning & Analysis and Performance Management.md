@@ -1,5 +1,6 @@
 ---
 tags:
+  - Finance
 Status:
 totalPage:
 author: Jack Alexander

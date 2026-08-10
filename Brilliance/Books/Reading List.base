@@ -5,6 +5,22 @@ filters:
     - file.name != "Notes - Books in Mind"
 views:
   - type: cards
+    name: View 2
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - Status
+      - file.ctime
+    sort:
+      - property: Status
+        direction: ASC
+    cardSize: 200
+    image: note.coverUrl
+    imageAspectRatio: 1.45
+  - type: cards
     name: View
     order:
       - file.name

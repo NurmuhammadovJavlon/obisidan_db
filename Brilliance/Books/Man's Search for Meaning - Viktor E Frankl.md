@@ -16,4 +16,6 @@ previewLink: http://books.google.co.uz/books?id=gjVNEQAAQBAJ&dq=Man%27s+Search+f
 isbn13: 9780807018835
 isbn10: 080701883X
 Base: "[[Reading List.base]]"
+tags:
+  - Psychology
 ---
