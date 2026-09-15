@@ -155,3 +155,6 @@ pull them up by their roots will you be rid of them forever.
 |           3. Great physique           |                                - I don't have time<br>- Too many people at the gym                                 |
 |            4. $ 1 000 000             | - I don't have good business idea<br>- I need capital/leverage...<br>- It is not easy<br>- What if doesn't work... |
 |   5. MBA (HARVARD BUSINESS SCHOOL)    |                                                   - I am afraid                                                    |
+
+
+[[IDENTITY BLUEPRINT - THE PERSONAL CONSTITUTION]]
